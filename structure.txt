@@ -1,0 +1,5 @@
+<component id="Hey boi">
+     <children>hey</children>
+     <children>boi</children>
+     <children>what</children>
+</component>
